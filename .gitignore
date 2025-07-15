@@ -1,0 +1,16 @@
+node_modules
+.DS_Store
+/dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Parcel cache
+.parcel-cache
+
+# Misc
+.sass-cache
+# dotenv environment variables file
+.env.local
+.env.*.local

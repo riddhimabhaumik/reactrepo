@@ -1,0 +1,30 @@
+{
+  "name": "reactrepo",
+  "version": "1.0.0",
+  "description": "React learning",
+  "scripts": {
+    "test": "jest",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riddhimabhaumik/reactrepo.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Riddhima Bhaumik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riddhimabhaumik/reactrepo/issues"
+  },
+  "homepage": "https://github.com/riddhimabhaumik/reactrepo#readme",
+  "devDependencies": {
+    "react": "^18.3.1",
+    "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "react-dom": "^18.3.1"
+  }
+}
